@@ -1,13 +1,15 @@
 ## StarCraft II PySC2 Simple Project (ref date : July 2018)
 
-### pysc2 simple terran agent using Q-learning
+### PySC2 Simple Terran Agent using Q-learning
 
-### Install pysc2
+### ※ version of the code might be out of date
+
+#### install pysc2
 
 ```shell
 $ pip install pysc2
 ```
 
 
-
+#### test video
 [![pysc2](https://img.youtube.com/vi/YqtQMo2HKh4/0.jpg)](https://youtu.be/YqtQMo2HKh4)
